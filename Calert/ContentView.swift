@@ -1,9 +1,7 @@
 //
 //  ContentView.swift
 //  Calert
-//
-//  Created by Fina Handalita on 28/06/23.
-//
+
 
 import SwiftUI
     
