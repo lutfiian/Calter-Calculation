@@ -2,8 +2,7 @@
 //  MENU.swift
 //  Calert
 //
-//  Created by Fina Handalita on 06/07/23.
-//
+
 
 import SwiftUI
 
